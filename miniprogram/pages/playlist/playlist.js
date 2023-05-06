@@ -5,7 +5,21 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    swiperImgUrls: [
+      {
+        // url: 'http://p1.music.126.net/oeH9rlBAj3UNkhOmfog8Hw==/109951164169407335.jpg',
+        url:'https://img0.baidu.com/it/u=3866344925,4093216278&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=250'
+      },
+      {
+        url: 'https://5b0988e595225.cdn.sohucs.com/images/20170826/146042e83e3843119faadbc658bef920.jpeg'
+        // url: 'http://p1.music.126.net/xhWAaHI-SIYP8ZMzL9NOqg==/109951164167032995.jpg',
+      },
+      {
+        url: 'https://img.dahepiao.com/uploads/allimg/200103/102K310W-0.jpg'
+        // url: 'http://p1.music.126.net/Yo-FjrJTQ9clkDkuUCTtUg==/109951164169441928.jpg',
+      }
+    ],
+    playlist: []
   },
 
   /**
