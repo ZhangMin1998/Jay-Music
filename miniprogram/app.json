@@ -22,7 +22,7 @@
       "selectedIconPath": "images/music-actived.png"
     },{
       "pagePath": "pages/blog/blog",
-      "text": "博客",
+      "text": "发现",
       "iconPath": "images/blog.png",
       "selectedIconPath": "images/blog-actived.png"
     },{
